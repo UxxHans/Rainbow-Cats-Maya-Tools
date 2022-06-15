@@ -13,5 +13,5 @@
 - https://help.autodesk.com/cloudhelp/2023/ENU/Maya-Tech-Docs/CommandsPython/
 
 ## Screenshots
-![Record](Pics\Animation.gif)
-![Image](Pics\Picture.jpg)
+![Record](https://github.com/UxxHans/Rainbow-Cats-Maya-Tools/blob/main/Pics/Animation.gif)
+![Image](https://github.com/UxxHans/Rainbow-Cats-Maya-Tools/blob/main/Pics/Picture.jpg)
